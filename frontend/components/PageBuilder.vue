@@ -21,7 +21,7 @@ defineProps({
     :block="block"
   >
     <div v-if="!resolveComponent(block._type)">
-      Component doesn't exist for this block type
+     كنكوصه ميديا نسخ تجريبية
     </div>
   </component>
 </template>

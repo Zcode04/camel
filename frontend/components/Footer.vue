@@ -5,7 +5,7 @@
         <h3
           class="mb-10 text-center text-4xl font-bold leading-tight tracking-tighter lg:mb-0 lg:w-1/2 lg:pr-4 lg:text-left lg:text-5xl"
         >
-          Built with Sanity + Nuxt.
+          kankoussa medai  test
         </h3>
         <div
           class="flex flex-col gap-3 items-center justify-center lg:w-1/2 lg:flex-row lg:pl-4"
@@ -16,10 +16,10 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            View on GitHub
+            تفضل
           </a>
           <a href="https://nuxt.com/docs" class="mx-3 hover:underline">
-            Read Nuxt Documentation
+             يسر يارب
           </a>
         </div>
       </div>

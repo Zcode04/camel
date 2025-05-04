@@ -24,7 +24,7 @@ const { data: settings } =
             class="flex items-center gap-4 md:gap-6 leading-5 text-sm md:text-base tracking-tight font-normal"
           >
             <li>
-              <NuxtLink to="/about" class="hover:underline">About</NuxtLink>
+              <NuxtLink to="/about" class="hover:underline">شلحال</NuxtLink>
             </li>
 
             <li
@@ -36,7 +36,7 @@ const { data: settings } =
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <span class="whitespace-nowrap">Use Template</span>
+                <span class="whitespace-nowrap">دحس</span>
                 <svg
                   fill="currentColor"
                   class="h-4 sm:h-6"
