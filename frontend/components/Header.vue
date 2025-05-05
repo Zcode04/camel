@@ -24,7 +24,7 @@ const { data: settings } =
             class="flex items-center gap-4 md:gap-6 leading-5 text-sm md:text-base tracking-tight font-normal"
           >
             <li>
-              <NuxtLink to="/about" class="hover:underline">شلحال</NuxtLink>
+              <NuxtLink to="/about" class="hover:underline">شل</NuxtLink>
             </li>
 
             <li
